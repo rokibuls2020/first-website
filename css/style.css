@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+h1{
+    width: 500px;
+    height: 300px;
+    font-family: arial;
+    text-align: center;
+    margin: 100px auto;
+    background-color:rgb(11, 255, 235);
+    color: black;
+    font-size: 40px;
+}
